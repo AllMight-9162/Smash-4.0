@@ -52,4 +52,7 @@ The system supports precise path following while maintaining heading stability a
 
 ---
 
-Developed and maintained by the **Team ALLMIGHT #9162 Software Team**.
+Developed and maintained by the **Team ALLMIGHT — 9162 Software Team**  
+Software Leads:
+- **[Rafael Henritzi](https://github.com/henritzi)**  
+- **[Niord Miranda](https://github.com/ProgramadorNiord)**
