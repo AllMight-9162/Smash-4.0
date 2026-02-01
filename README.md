@@ -1,7 +1,7 @@
 # 🤖 SMASH 4.0 — FRC 9162
 
 <p align="center">
-  <img src="Smash4.0.jpeg" width="700">
+  <img src="Smash4.0.jpeg" width="1000">
 </p>
 
 Codebase for **SMASH 4.0**, the competition robot developed by **Team ALLMIGHT — 9162** and used during the **2025 FIRST Robotics Competition (FRC) Regional Brasília**.
