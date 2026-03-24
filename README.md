@@ -1,4 +1,4 @@
-# 🤖 SMASH 4.0 — FRC 9162
+# SMASH 4.0 — FRC 9162
 
 <p align="center">
   <img src="Smash4.0.jpeg" width="1000">
@@ -10,7 +10,7 @@ This repository contains the full robot software responsible for drivetrain cont
 
 ---
 
-## 🏆 Robot Overview
+## Robot Overview
 
 - **Team:** ALLMIGHT — 9162  
 - **Robot Name:** SMASH 4.0  
@@ -21,33 +21,33 @@ This repository contains the full robot software responsible for drivetrain cont
 
 ---
 
-## ✨ Highlights
+## Highlights
 
-### 🎮 Controls
+### Controls
 SMASH 4.0 uses a command-based control architecture that cleanly separates driver input, operator control, and autonomous behavior.  
 Manual control is prioritized, with automatic alignment features activating contextually during gameplay.
 
-### 🎯 Vision
+### Vision
 The robot uses **Limelight** cameras for **AprilTag detection and pose estimation**.  
 Vision data is fused with odometry to enable:
 - Automatic target alignment  
 - Speed reduction near scoring targets  
 - Consistent positioning during autonomous and teleoperated periods  
 
-### 🧭 Autonomous
+### Autonomous
 Autonomous routines are built using **PathPlanner**, allowing reliable and repeatable trajectories.  
 The system supports precise path following while maintaining heading stability and smooth transitions at the end of paths.
 
 ---
 
-## 📦 Code Structure
+## Code Structure
 - **Subsystems** are self-contained and reusable  
 - **Commands** encapsulate robot behavior  
 - **RobotContainer** manages bindings, defaults, and system integration  
 
 ---
 
-## 👁️ Vision System
+## Vision System
 
 - Dual Limelight setup (front and rear)
 - AprilTag-based alignment
